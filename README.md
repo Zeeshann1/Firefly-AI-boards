@@ -31,4 +31,7 @@ Comparative analysis and testing of Firefly AI development boards. (RK3399 &amp;
 ## References
 - [Youtube](https://www.youtube.com/watch?v=1-AzJusXObY)
 - [RKNN Model Zoo](https://github.com/airockchip/rknn_model_zoo)
+- [RK3399Pro TB-RK3399ProD](https://www.amazon.com/youyeetoo-Toybrick-RK3399Pro-TB-RK3399ProD-TensorFlow/dp/B07W5B8K5M)
+- [Firfly store](https://www.firefly.store/)
+- [ROC-RK3588S-PC Manual](https://wiki.t-firefly.com/en/ROC-RK3588S-PC/android_adb_use.html)
 
