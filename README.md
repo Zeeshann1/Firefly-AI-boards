@@ -14,11 +14,11 @@ Comparative analysis and testing of Firefly AI development boards. (RK3399 &amp;
 - [RK3399pro Test Results](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/RK3399pro%20benchmark%20Results/RK3399pro%20Test%20Results%20(%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C).pdf)
 - [Perfdog-WeTest.docx](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/RK3399pro%20benchmark%20Results/Perfdog-WeTest.docx?)
 
-## GEEKBENCH 4 & 5 Score for RK3399pro & RK3588 Score
-- [rockchip rk3399pro Geekbench 5](https://browser.geekbench.com/v5/cpu/16724822)
-- [rockchip rk3399pro Geekbench 4](https://browser.geekbench.com/v4/cpu/16604885)
+## GEEKBENCH 4 & 5 Score for RK3399pro & RK3588S-PC Score
+- [Rockchip rk3399pro Geekbench 5](https://browser.geekbench.com/v5/cpu/16724822)
+- [Rockchip rk3399pro Geekbench 4](https://browser.geekbench.com/v4/cpu/16604885)
 - [Firefly ROC-RK3588S-PC](https://browser.geekbench.com/v5/cpu/16938620)
-- [rockchip rk3399pro vs Firefly ROC-RK3588S-PC](https://browser.geekbench.com/v5/cpu/compare/8514941?baseline=16938620)
+- [Rockchip rk3399pro vs Firefly ROC-RK3588S-PC](https://browser.geekbench.com/v5/cpu/compare/8514941?baseline=16938620)
 - [Firefly ROC-RK3588S-PC Vulkan Score](https://browser.geekbench.com/v5/compute/5388604)
 
 ## Which-ARM-Cortex-Core-Is-Right-for-Your-Application
