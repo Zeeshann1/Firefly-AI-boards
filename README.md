@@ -1,4 +1,4 @@
-# Firefly Rockchip AI Development boards 
+# Firefly Rockchip AI Development Boards Performance Evaluation 
 Comparative analysis and testing of Firefly AI development boards. (RK3399 &amp; RK3588s) 
 
 ![](https://www.thomas-pr.com/rockchip/Rockchip%20Logo.jpg)
