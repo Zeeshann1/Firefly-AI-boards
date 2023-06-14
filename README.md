@@ -45,4 +45,5 @@ Comparative analysis and testing of Firefly AI development boards. (RK3399 &amp;
 - [RK3399Pro TB-RK3399ProD](https://www.amazon.com/youyeetoo-Toybrick-RK3399Pro-TB-RK3399ProD-TensorFlow/dp/B07W5B8K5M)
 - [Firfly store](https://www.firefly.store/)
 - [ROC-RK3588S-PC Manual](https://wiki.t-firefly.com/en/ROC-RK3588S-PC/android_adb_use.html)
-
+- [Perfdog wetest](https://perfdog.wetest.net/login)
+- [WeTest](https://www.wetest.net/n/auth/login/?next=https%3A%2F%2Fconsole.wetest.net%2F&type=null)
