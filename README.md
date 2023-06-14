@@ -22,12 +22,12 @@ Comparative analysis and testing of Firefly AI development boards. (RK3399 &amp;
 - [Firefly ROC-RK3588S-PC Vulkan Score](https://browser.geekbench.com/v5/compute/5388604)
 
 ## Which-ARM-Cortex-Core-Is-Right-for-Your-Application
-- [ARM Cortex PDF](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/Which-ARM-Cortex-Core-Is-Right-for-Your-Application.pdf?raw=true)
+- [ARM Cortex PDF](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/Which-ARM-Cortex-Core-Is-Right-for-Your-Application.pdf)
 
 
 ## ROC-RK3588S-PC and RK3399pro Performace Evaluation
-- [ROC-RK3588S-PC and RK3399pro Performace Evaluation.pdf](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/ROC-RK3588S-PC%20and%20RK3399pro%20Benchmark%20Results/ROC-RK3588S-PC%20and%20RK3399pro%20Performace%20Evaluation.pdf?raw=true)
-- [ROC-RK3588S-PC and RK3399pro Performace Evaluation.docx](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/ROC-RK3588S-PC%20and%20RK3399pro%20Benchmark%20Results/ROC-RK3588S-PC%20and%20RK3399pro%20Performace%20Evaluation.docx?raw=true)
+- [ROC-RK3588S-PC and RK3399pro Performace Evaluation.pdf](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/ROC-RK3588S-PC%20and%20RK3399pro%20Benchmark%20Results/ROC-RK3588S-PC%20and%20RK3399pro%20Performace%20Evaluation.pdf)
+- [ROC-RK3588S-PC and RK3399pro Performace Evaluation.docx](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/ROC-RK3588S-PC%20and%20RK3399pro%20Benchmark%20Results/ROC-RK3588S-PC%20and%20RK3399pro%20Performace%20Evaluation.docx)
 
 
 ## ROC-RK3588S-PC Manual
