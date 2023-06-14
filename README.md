@@ -11,8 +11,8 @@ Comparative analysis and testing of Firefly AI development boards. (RK3399 &amp;
 - [ROC-RK3588S-PC Specification.pdf](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/RK%20boards%20datasheet/ROC-RK3588S-PC%20Specification.pdf?raw=true)
 
 ## RK3399pro Benchmark Results
-- [RK3399pro Test Results](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/RK3399pro%20benchmark%20Results/RK3399pro%20Test%20Results%20(%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C).pdf?raw=true)
-- [Perfdog-WeTest.docx](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/RK3399pro%20benchmark%20Results/Perfdog-WeTest.docx?raw=true)
+- [RK3399pro Test Results](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/RK3399pro%20benchmark%20Results/RK3399pro%20Test%20Results%20(%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C).pdf)
+- [Perfdog-WeTest.docx](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/RK3399pro%20benchmark%20Results/Perfdog-WeTest.docx?)
 
 ## Which-ARM-Cortex-Core-Is-Right-for-Your-Application
 - [ARM Cortex PDF](https://github.com/Zeeshann1/Firefly-AI-boards/blob/main/Which-ARM-Cortex-Core-Is-Right-for-Your-Application.pdf?raw=true)
